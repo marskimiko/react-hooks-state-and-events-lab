@@ -15,6 +15,12 @@ The components you have to work with are in the `src/components` folder. Start
 by examining these components and draw out your component hierarchy to see how
 data can be passed from one component to another.
 
+```txt
+└── App
+    └── ShoppingList
+        └── Item
+```
+
 In this lab, you'll update state and get more practice with the `useState` hook.
 
 It's recommended that you run `npm start` and work on this in the browser
